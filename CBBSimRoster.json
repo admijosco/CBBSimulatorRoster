@@ -467,7 +467,7 @@
                     "primary": "#9E1B32",
                     "secondary": "#FFFFFF",
                     "tertiary": "#828A8F",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "ARK",
@@ -480,7 +480,7 @@
                     "primary": "#9D2235",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "AUB",
@@ -493,7 +493,7 @@
                     "primary": "#0C2340",
                     "secondary": "#E87722",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "FLA",
@@ -506,7 +506,7 @@
                     "primary": "#0021A5",
                     "secondary": "#FA4616",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UGA",
@@ -519,7 +519,7 @@
                     "primary": "#BA0C2F",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UK",
@@ -532,7 +532,7 @@
                     "primary": "#0033A0",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "LSU",
@@ -545,7 +545,7 @@
                     "primary": "#461D7C",
                     "secondary": "#FDD023",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "MSU",
@@ -558,7 +558,7 @@
                     "primary": "#660000",
                     "secondary": "#FFFFFF",
                     "tertiary": "#CCCCCC",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "MISS",
@@ -571,7 +571,7 @@
                     "primary": "#CE1126",
                     "secondary": "#14213D",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "MIZ",
@@ -597,7 +597,7 @@
                     "primary": "#841617",
                     "secondary": "#FDF9D8",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "SC",
@@ -610,7 +610,7 @@
                     "primary": "#73000A",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "TEN",
@@ -623,7 +623,7 @@
                     "primary": "#FF8200",
                     "secondary": "#FFFFFF",
                     "tertiary": "#58595B",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "TEX",
@@ -636,7 +636,7 @@
                     "primary": "#BF5700",
                     "secondary": "#FFFFFF",
                     "tertiary": "#333F48",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "TAMU",
@@ -649,7 +649,7 @@
                     "primary": "#500000",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "VAN",
@@ -662,7 +662,7 @@
                     "primary": "#866D4B",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 }
             ],
             "protectedPairs": []
@@ -711,7 +711,7 @@
                     "primary": "#154734",
                     "secondary": "#FFB81C",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "BYU",
@@ -763,7 +763,7 @@
                     "primary": "#C8102E",
                     "secondary": "#FFFFFF",
                     "tertiary": "#76232F",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "ISU",
@@ -828,7 +828,7 @@
                     "primary": "#4D1979",
                     "secondary": "#A3ADB4",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "TTU",
@@ -841,7 +841,7 @@
                     "primary": "#CC0000",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UCF",
@@ -854,7 +854,7 @@
                     "primary": "#BA9B37",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UTAH",
@@ -929,7 +929,7 @@
                     "primary": "#F56600",
                     "secondary": "#522D80",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "DUKE",
@@ -955,7 +955,7 @@
                     "primary": "#782F40",
                     "secondary": "#CEB888",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "GT",
@@ -968,7 +968,7 @@
                     "primary": "#B3A369",
                     "secondary": "#003057",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "LOU",
@@ -981,7 +981,7 @@
                     "primary": "#AD0000",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "MIAMI",
@@ -994,7 +994,7 @@
                     "primary": "#F47321",
                     "secondary": "#005030",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UNC",
@@ -1059,7 +1059,7 @@
                     "primary": "#0033A0",
                     "secondary": "#C8102E",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "STAN",
@@ -1225,7 +1225,7 @@
                     "primary": "#501214",
                     "secondary": "#8D734A",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "USU",
@@ -1300,7 +1300,7 @@
                     "primary": "#003366",
                     "secondary": "#CC0000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "MEM",
@@ -1313,7 +1313,7 @@
                     "primary": "#003087",
                     "secondary": "#898D8D",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UNT",
@@ -1326,7 +1326,7 @@
                     "primary": "#00853E",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "RICE",
@@ -1339,7 +1339,7 @@
                     "primary": "#00205B",
                     "secondary": "#FFFFFF",
                     "tertiary": "#ABB4B9",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "USF",
@@ -1352,7 +1352,7 @@
                     "primary": "#006747",
                     "secondary": "#CFC493",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "TEM",
@@ -1378,7 +1378,7 @@
                     "primary": "#006747",
                     "secondary": "#418FDE",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "TUL",
@@ -1391,7 +1391,7 @@
                     "primary": "#002D72",
                     "secondary": "#C5B358",
                     "tertiary": "#C8102E",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UAB",
@@ -1404,7 +1404,7 @@
                     "primary": "#006341",
                     "secondary": "#FFC82E",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UTSA",
@@ -1417,7 +1417,7 @@
                     "primary": "#0C2340",
                     "secondary": "#F15A22",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "WICH",
@@ -1873,7 +1873,7 @@
                     "primary": "#00205B",
                     "secondary": "#CC0033",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "BRAD",
@@ -1964,7 +1964,7 @@
                     "primary": "#002147",
                     "secondary": "#FFB114",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UNI",
@@ -2192,7 +2192,7 @@
                     "primary": "#081E3F",
                     "secondary": "#B6862C",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "JSU",
@@ -2205,7 +2205,7 @@
                     "primary": "#CC0000",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "KSU",
@@ -2218,7 +2218,7 @@
                     "primary": "#231F20",
                     "secondary": "#FFC629",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "LIB",
@@ -2244,7 +2244,7 @@
                     "primary": "#002F8B",
                     "secondary": "#E31B23",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "MTSU",
@@ -2257,7 +2257,7 @@
                     "primary": "#0066CC",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "MOST",
@@ -2296,7 +2296,7 @@
                     "primary": "#F05A28",
                     "secondary": "#003366",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UTEP",
@@ -2322,7 +2322,7 @@
                     "primary": "#E31837",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 }
             ],
             "protectedPairs": []
@@ -2524,7 +2524,7 @@
                     "primary": "#222222",
                     "secondary": "#FFCC00",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "ARST",
@@ -2537,7 +2537,7 @@
                     "primary": "#CC0000",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "CCU",
@@ -2563,7 +2563,7 @@
                     "primary": "#001C46",
                     "secondary": "#A19060",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "GAST",
@@ -2576,7 +2576,7 @@
                     "primary": "#0039A6",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "JMU",
@@ -2602,7 +2602,7 @@
                     "primary": "#CE181E",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "ULM",
@@ -2615,7 +2615,7 @@
                     "primary": "#840029",
                     "secondary": "#FDB913",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "MARS",
@@ -2654,7 +2654,7 @@
                     "primary": "#00205B",
                     "secondary": "#BF0D3E",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "USM",
@@ -2667,7 +2667,7 @@
                     "primary": "#FFAB00",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "TROY",
@@ -2680,7 +2680,7 @@
                     "primary": "#8A2432",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 }
             ],
             "protectedPairs": []
@@ -3722,7 +3722,7 @@
                     "primary": "#C41E3A",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "BELL",
@@ -3735,7 +3735,7 @@
                     "primary": "#820024",
                     "secondary": "#8A8D8E",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UCA",
@@ -3748,7 +3748,7 @@
                     "primary": "#4F2683",
                     "secondary": "#808285",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "EKU",
@@ -3761,7 +3761,7 @@
                     "primary": "#4C151E",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "FGCU",
@@ -3774,7 +3774,7 @@
                     "primary": "#004785",
                     "secondary": "#00794C",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "JAX",
@@ -3787,7 +3787,7 @@
                     "primary": "#004D44",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "LIP",
@@ -3800,7 +3800,7 @@
                     "primary": "#331E54",
                     "secondary": "#F4AA00",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UNA",
@@ -3813,7 +3813,7 @@
                     "primary": "#592B8A",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UNF",
@@ -3826,7 +3826,7 @@
                     "primary": "#00246B",
                     "secondary": "#D9D9D9",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "QUNC",
@@ -3839,7 +3839,7 @@
                     "primary": "#00205B",
                     "secondary": "#A89968",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "STET",
@@ -3852,7 +3852,7 @@
                     "primary": "#005440",
                     "secondary": "#4C8C40",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UWG",
@@ -3865,7 +3865,7 @@
                     "primary": "#E22B28",
                     "secondary": "#0065A6",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 }
             ],
             "protectedPairs": []
@@ -4028,7 +4028,7 @@
                     "primary": "#002D62",
                     "secondary": "#B2955A",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "GWU",
@@ -4041,7 +4041,7 @@
                     "primary": "#D1190D",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "HPU",
@@ -4054,7 +4054,7 @@
                     "primary": "#33168E",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "LONG",
@@ -4067,7 +4067,7 @@
                     "primary": "#001E62",
                     "secondary": "#FFFFFF",
                     "tertiary": "#8A8D8E",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "PRES",
@@ -4080,7 +4080,7 @@
                     "primary": "#003DA5",
                     "secondary": "#B31B1B",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "RAD",
@@ -4093,7 +4093,7 @@
                     "primary": "#C8102E",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UNCA",
@@ -4106,7 +4106,7 @@
                     "primary": "#003DA5",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UPST",
@@ -4119,7 +4119,7 @@
                     "primary": "#004731",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "WIN",
@@ -4132,7 +4132,7 @@
                     "primary": "#532E1F",
                     "secondary": "#FFC72C",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 }
             ],
             "protectedPairs": []
@@ -4321,7 +4321,7 @@
                     "primary": "#6E2639",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "MORE",
@@ -4334,7 +4334,7 @@
                     "primary": "#003DA5",
                     "secondary": "#FFC82E",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "SEMO",
@@ -4386,7 +4386,7 @@
                     "primary": "#003DA5",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "TNTU",
@@ -4399,7 +4399,7 @@
                     "primary": "#4F2683",
                     "secondary": "#FFCC00",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UTM",
@@ -4412,7 +4412,7 @@
                     "primary": "#002D62",
                     "secondary": "#FF8200",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "WIU",
@@ -4448,7 +4448,7 @@
                     "primary": "#00386B",
                     "secondary": "#E0AA0F",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "CIT",
@@ -4461,7 +4461,7 @@
                     "primary": "#397DCC",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "ETSU",
@@ -4474,7 +4474,7 @@
                     "primary": "#041E42",
                     "secondary": "#FFC72C",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "FUR",
@@ -4487,7 +4487,7 @@
                     "primary": "#4B2682",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "MER",
@@ -4500,7 +4500,7 @@
                     "primary": "#000000",
                     "secondary": "#F38B00",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "SAM",
@@ -4513,7 +4513,7 @@
                     "primary": "#0C2340",
                     "secondary": "#C41230",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UNCG",
@@ -4526,7 +4526,7 @@
                     "primary": "#003366",
                     "secondary": "#FFB71B",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "VMI",
@@ -4539,7 +4539,7 @@
                     "primary": "#C8102E",
                     "secondary": "#F1B82D",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "WCU",
@@ -4552,7 +4552,7 @@
                     "primary": "#492F24",
                     "secondary": "#B09E6D",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "WOF",
@@ -4565,7 +4565,7 @@
                     "primary": "#000000",
                     "secondary": "#8A724F",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 }
             ],
             "protectedPairs": []
@@ -4588,7 +4588,7 @@
                     "primary": "#003087",
                     "secondary": "#F38B00",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UIW",
@@ -4601,7 +4601,7 @@
                     "primary": "#CC0000",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "LAM",
@@ -4614,7 +4614,7 @@
                     "primary": "#CC0000",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "MCNS",
@@ -4627,7 +4627,7 @@
                     "primary": "#003087",
                     "secondary": "#FFC72C",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "NICH",
@@ -4640,7 +4640,7 @@
                     "primary": "#CC0000",
                     "secondary": "#8A8D8F",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "NWST",
@@ -4653,7 +4653,7 @@
                     "primary": "#4F2683",
                     "secondary": "#FFFFFF",
                     "tertiary": "#FF671F",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "SELA",
@@ -4666,7 +4666,7 @@
                     "primary": "#004B33",
                     "secondary": "#DDB140",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "SFA",
@@ -4679,7 +4679,7 @@
                     "primary": "#32174D",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "TAMUCC",
@@ -4692,7 +4692,7 @@
                     "primary": "#0067B1",
                     "secondary": "#00794C",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "ETAM",
@@ -4705,7 +4705,7 @@
                     "primary": "#002F5B",
                     "secondary": "#E1B917",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "RGV",
@@ -4718,7 +4718,7 @@
                     "primary": "#F05522",
                     "secondary": "#002F5B",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 }
             ],
             "protectedPairs": []
@@ -4780,7 +4780,7 @@
                     "primary": "#4F2683",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UTA",
@@ -4793,7 +4793,7 @@
                     "primary": "#007BB8",
                     "secondary": "#F58025",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UTT",
@@ -4842,7 +4842,7 @@
                     "primary": "#660000",
                     "secondary": "#FFFFFF",
                     "tertiary": "#000000",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "ALST",
@@ -4855,7 +4855,7 @@
                     "primary": "#B2955A",
                     "secondary": "#000000",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "ALCN",
@@ -4868,7 +4868,7 @@
                     "primary": "#4B116F",
                     "secondary": "#FFB81C",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "BCU",
@@ -4881,7 +4881,7 @@
                     "primary": "#660000",
                     "secondary": "#F2A900",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "FAMU",
@@ -4894,7 +4894,7 @@
                     "primary": "#006633",
                     "secondary": "#FF8200",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "GRAM",
@@ -4907,7 +4907,7 @@
                     "primary": "#000000",
                     "secondary": "#FFCC00",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "JKST",
@@ -4920,7 +4920,7 @@
                     "primary": "#002147",
                     "secondary": "#FFFFFF",
                     "tertiary": "#ABB4B9",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "MVSU",
@@ -4933,7 +4933,7 @@
                     "primary": "#006633",
                     "secondary": "#CC0033",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "PVAM",
@@ -4946,7 +4946,7 @@
                     "primary": "#331E54",
                     "secondary": "#F4AA00",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "SOUT",
@@ -4959,7 +4959,7 @@
                     "primary": "#0099CC",
                     "secondary": "#F2A900",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "TXSO",
@@ -4972,7 +4972,7 @@
                     "primary": "#660000",
                     "secondary": "#ABB4B9",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 },
                 {
                     "abbreviation": "UAPB",
@@ -4985,7 +4985,7 @@
                     "primary": "#000000",
                     "secondary": "#FFCC00",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 }
             ],
             "protectedPairs": []
@@ -5099,7 +5099,7 @@
                     "primary": "#660000",
                     "secondary": "#003366",
                     "tertiary": "#FFFFFF",
-                    "region": "South"
+                    "region": "Southeast"
                 }
             ],
             "protectedPairs": []
