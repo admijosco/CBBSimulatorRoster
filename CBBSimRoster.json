@@ -1134,7 +1134,7 @@
             "conferencePrestige": 74,
             "name": "Pac-12",
             "requiredConferenceGames": 16,
-            "tier": "High-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "BSU",
@@ -1261,7 +1261,7 @@
             "conferencePrestige": 72,
             "name": "AAC",
             "requiredConferenceGames": 18,
-            "tier": "High-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "CLT",
@@ -1440,7 +1440,7 @@
             "conferencePrestige": 69,
             "name": "Mountain West",
             "requiredConferenceGames": 20,
-            "tier": "High-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "AFA",
@@ -1541,7 +1541,7 @@
             "conferencePrestige": 76,
             "name": "Atlantic 10",
             "requiredConferenceGames": 18,
-            "tier": "High-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "DAV",
@@ -1733,7 +1733,7 @@
             "conferencePrestige": 68,
             "name": "WCC",
             "requiredConferenceGames": 18,
-            "tier": "High-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "SMC",
@@ -1860,7 +1860,7 @@
             "conferencePrestige": 65,
             "name": "Missouri Valley",
             "requiredConferenceGames": 20,
-            "tier": "Mid-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "BEL",
@@ -2013,7 +2013,7 @@
             "conferencePrestige": 54,
             "name": "Big West",
             "requiredConferenceGames": 20,
-            "tier": "Mid-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "CP",
@@ -2166,7 +2166,7 @@
             "conferencePrestige": 49,
             "name": "Conference USA",
             "requiredConferenceGames": 18,
-            "tier": "Mid-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "DEL",
@@ -2332,7 +2332,7 @@
             "conferencePrestige": 51,
             "name": "MAC",
             "requiredConferenceGames": 18,
-            "tier": "Mid-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "AKR",
@@ -2511,7 +2511,7 @@
             "conferencePrestige": 55,
             "name": "Sun Belt",
             "requiredConferenceGames": 18,
-            "tier": "Mid-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "APP",
@@ -2690,7 +2690,7 @@
             "conferencePrestige": 47,
             "name": "CAA",
             "requiredConferenceGames": 18,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "CAMP",
@@ -2869,7 +2869,7 @@
             "conferencePrestige": 44,
             "name": "Horizon",
             "requiredConferenceGames": 20,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "CLEV",
@@ -3022,7 +3022,7 @@
             "conferencePrestige": 43,
             "name": "Summit League",
             "requiredConferenceGames": 16,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "DEN",
@@ -3149,7 +3149,7 @@
             "conferencePrestige": 48,
             "name": "Ivy League",
             "requiredConferenceGames": 14,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "BRWN",
@@ -3442,7 +3442,7 @@
             "conferencePrestige": 52,
             "name": "Patriot League",
             "requiredConferenceGames": 18,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "AMER",
@@ -3582,7 +3582,7 @@
             "conferencePrestige": 50,
             "name": "America East",
             "requiredConferenceGames": 16,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "ALB",
@@ -3709,7 +3709,7 @@
             "conferencePrestige": 47,
             "name": "ASUN",
             "requiredConferenceGames": 16,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "APSU",
@@ -3875,7 +3875,7 @@
             "conferencePrestige": 44,
             "name": "Big Sky",
             "requiredConferenceGames": 18,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "EWU",
@@ -4015,7 +4015,7 @@
             "conferencePrestige": 38,
             "name": "Big South",
             "requiredConferenceGames": 16,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "CHSO",
@@ -4142,7 +4142,7 @@
             "conferencePrestige": 31,
             "name": "NEC",
             "requiredConferenceGames": 16,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "CCSU",
@@ -4282,7 +4282,7 @@
             "conferencePrestige": 35,
             "name": "OVC",
             "requiredConferenceGames": 20,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "EIU",
@@ -4435,7 +4435,7 @@
             "conferencePrestige": 51,
             "name": "SoCon",
             "requiredConferenceGames": 18,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "CHAT",
@@ -4575,7 +4575,7 @@
             "conferencePrestige": 33,
             "name": "Southland",
             "requiredConferenceGames": 22,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "HCU",
@@ -4741,7 +4741,7 @@
             "conferencePrestige": 39,
             "name": "WAC",
             "requiredConferenceGames": 18,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "ACU",
@@ -4842,7 +4842,7 @@
             "conferencePrestige": 28,
             "name": "SWAC",
             "requiredConferenceGames": 18,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "AAMU",
@@ -5008,7 +5008,7 @@
             "conferencePrestige": 25,
             "name": "MEAC",
             "requiredConferenceGames": 14,
-            "tier": "Low-Major",
+            "tier": "Non-Power",
             "teams": [
                 {
                     "abbreviation": "COPP",
