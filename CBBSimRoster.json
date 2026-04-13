@@ -4719,19 +4719,6 @@
                     "secondary": "#002F5B",
                     "tertiary": "#FFFFFF",
                     "region": "South"
-                },
-                {
-                    "abbreviation": "UNO",
-                    "defenseScheme": "Man-to-Man",
-                    "logoURL": "https://b.fssta.com/uploads/application/college/team-logos/NewOrleans.png",
-                    "mascot": "Privateers",
-                    "name": "New Orleans",
-                    "offenseScheme": "uptempo",
-                    "prestige": 37,
-                    "primary": "#005ca6",
-                    "secondary": "#a3a9ac",
-                    "tertiary": "#002f56",
-                    "region": "South"
                 }
             ],
             "protectedPairs": []
